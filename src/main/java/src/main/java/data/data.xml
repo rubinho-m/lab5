@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Ledger>
+    <Tickets>
+        <Ticket>
+            <name>Brad Pitt</name>
+            <coordinates>
+                <x>10.0</x>
+                <y>50</y>
+            </coordinates>
+            <price>500.0</price>
+            <comment>subsidized ticket</comment>
+            <refundable>false</refundable>
+            <type>BUDGETARY</type>
+            <venue>
+                <name>Moscow</name>
+                <capacity>100</capacity>
+                <type>STADIUM</type>
+                <address>
+                    <street>Luzhniki</street>
+                </address>
+            </venue>
+        </Ticket>
+        <Ticket>
+            <name>MR</name>
+            <coordinates>
+                <x>10.0</x>
+                <y>50</y>
+            </coordinates>
+            <price>100.0</price>
+            <comment>subsidized ticket</comment>
+            <refundable>false</refundable>
+            <type>BUDGETARY</type>
+            <venue>
+                <name>Moscow</name>
+                <capacity>100</capacity>
+                <type>STADIUM</type>
+                <address>
+                    <street>Luzhniki</street>
+                </address>
+            </venue>
+        </Ticket>
+    </Tickets>
+</Ledger>
